@@ -7,5 +7,7 @@ public class Shape {
 	System.out.println("J  J  aaaaa   v v  aaaaa");
 	System.out.println(" JJ  a     a   v  a     a");
 
-    }
+
+
+	}
 }
